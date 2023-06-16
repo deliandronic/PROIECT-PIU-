@@ -1,0 +1,58 @@
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\Interfata_proiect\bin\Debug\Interfata_proiect.exe.config
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\Interfata_proiect\bin\Debug\Interfata_proiect.exe
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\Interfata_proiect\bin\Debug\Interfata_proiect.pdb
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\Interfata_proiect\bin\Debug\ProiectPIU.exe
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\Interfata_proiect\bin\Debug\ProiectPIU.pdb
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\Interfata_proiect\bin\Debug\ProiectPIU.exe.config
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.AssemblyReference.cache
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.Form1.resources
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.Properties.Resources.resources
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.GenerateResource.cache
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.CoreCompileInputs.cache
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.CopyComplete
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.exe
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.pdb
+F:\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\Interfata_proiect.exe.config
+F:\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\Interfata_proiect.exe
+F:\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\Interfata_proiect.pdb
+F:\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\ProiectPIU.exe
+F:\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\ProiectPIU.pdb
+F:\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\ProiectPIU.exe.config
+F:\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.AssemblyReference.cache
+F:\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.SuggestedBindingRedirects.cache
+F:\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.Form1.resources
+F:\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.Properties.Resources.resources
+F:\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.GenerateResource.cache
+F:\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.CoreCompileInputs.cache
+F:\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.CopyComplete
+F:\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.exe
+F:\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.pdb
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\Interfata_proiect.exe.config
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\Interfata_proiect.exe
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\Interfata_proiect.pdb
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\ProiectPIU.exe
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\ProiectPIU.pdb
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\ProiectPIU.exe.config
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.AssemblyReference.cache
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.Form1.resources
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.Properties.Resources.resources
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.GenerateResource.cache
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.CopyComplete
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.exe
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.pdb
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\Interfata_proiect.exe.config
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\Interfata_proiect.exe
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\Interfata_proiect.pdb
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\ProiectPIU.exe
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\ProiectPIU.pdb
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\bin\Debug\ProiectPIU.exe.config
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.AssemblyReference.cache
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.Form1.resources
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.Properties.Resources.resources
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.GenerateResource.cache
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.CoreCompileInputs.cache
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.csproj.CopyComplete
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.exe
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\Interfata_proiect\obj\Debug\Interfata_proiect.pdb

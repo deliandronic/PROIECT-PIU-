@@ -1,0 +1,61 @@
+C:\Users\Iulian\Desktop\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.exe.config
+C:\Users\Iulian\Desktop\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.exe
+C:\Users\Iulian\Desktop\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.pdb
+C:\Users\Iulian\Desktop\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.AssemblyReference.cache
+C:\Users\Iulian\Desktop\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.CoreCompileInputs.cache
+C:\Users\Iulian\Desktop\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.exe
+C:\Users\Iulian\Desktop\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.pdb
+D:\Hreniuc Iulian\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.exe.config
+D:\Hreniuc Iulian\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.exe
+D:\Hreniuc Iulian\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.pdb
+D:\Hreniuc Iulian\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csprojResolveAssemblyReference.cache
+D:\Hreniuc Iulian\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.exe
+D:\Hreniuc Iulian\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.pdb
+F:\Hreniuc Iulian\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.exe.config
+F:\Hreniuc Iulian\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.exe
+F:\Hreniuc Iulian\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.pdb
+F:\Hreniuc Iulian\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.AssemblyReference.cache
+F:\Hreniuc Iulian\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.CoreCompileInputs.cache
+F:\Hreniuc Iulian\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.exe
+F:\Hreniuc Iulian\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.pdb
+C:\Users\Iulian\Desktop\Hreniuc Iulian\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.exe.config
+C:\Users\Iulian\Desktop\Hreniuc Iulian\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.exe
+C:\Users\Iulian\Desktop\Hreniuc Iulian\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.pdb
+C:\Users\Iulian\Desktop\Hreniuc Iulian\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.AssemblyReference.cache
+C:\Users\Iulian\Desktop\Hreniuc Iulian\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.CoreCompileInputs.cache
+C:\Users\Iulian\Desktop\Hreniuc Iulian\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.exe
+C:\Users\Iulian\Desktop\Hreniuc Iulian\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.pdb
+E:\Hreniuc Iulian\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.exe.config
+E:\Hreniuc Iulian\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.exe
+E:\Hreniuc Iulian\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.pdb
+E:\Hreniuc Iulian\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.exe
+E:\Hreniuc Iulian\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.pdb
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.exe.config
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.exe
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.pdb
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.AssemblyReference.cache
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.CoreCompileInputs.cache
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.exe
+C:\Users\Iulian\Desktop\Hreniuc Iulian 1.1\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.pdb
+F:\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.AssemblyReference.cache
+F:\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.SuggestedBindingRedirects.cache
+F:\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.CoreCompileInputs.cache
+F:\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.exe
+F:\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.pdb
+E:\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.AssemblyReference.cache
+E:\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.SuggestedBindingRedirects.cache
+E:\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.CoreCompileInputs.cache
+E:\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.exe
+E:\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.pdb
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.exe.config
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.exe
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\bin\Debug\ProiectPIU.pdb
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.AssemblyReference.cache
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.exe
+C:\Users\drago\Desktop\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.pdb
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.AssemblyReference.cache
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.SuggestedBindingRedirects.cache
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.csproj.CoreCompileInputs.cache
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.exe
+C:\Users\delia\Desktop\PIU\Hreniuc Iulian vers. finala\ProiectPIU\ProiectPIU\obj\Debug\ProiectPIU.pdb

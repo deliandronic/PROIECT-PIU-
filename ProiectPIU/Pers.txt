@@ -1,0 +1,8 @@
+0,Andronic,Delia Dumitrita,20,
+1,Popescu,Luis,21,
+2,Vasilut,Alexandra,21,
+3,Cudla,Cristian,20,
+4,Popescu,Andrei,31,
+5,Popescu,Alin,31,
+2,blabla,vasile,-2,
+2,a,B,5,
